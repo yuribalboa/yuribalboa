@@ -22,6 +22,7 @@
 <div style="display: flex; gap: 80px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" height="80"/>
   <img src="https://vectorseek.com/wp-content/uploads/2023/11/Alteryx-Icon-Logo-Vector.svg-.png" alt="Alteryx" width="80" height="80"/>
   <img src="https://logos-download.com/wp-content/uploads/2019/11/SAS_Institute_Inc._Logo.png" alt="SAS" width="80" height="80"/>
