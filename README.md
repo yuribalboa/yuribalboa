@@ -37,6 +37,36 @@
   <img src="https://img.shields.io/badge/-CorelDRAW-000000?style=flat-square&logo=coreldraw&logoColor=white" height="30">
 </div>
 
+### **Linguagens de Programação**
+<div style="display: flex; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+</div>
+
+### **Ferramentas e Frameworks**
+<div style="display: flex; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</div>
+
+### **Outras Ferramentas**
+<div style="display: flex; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="ThunderClient" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/alteryx-designer.png" alt="Alteryx" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sas-cloud-computing-flat-flat-juicy-fish.png" alt="SAS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDRAW" width="40" height="40"/>
+  <img src="https://img.icons8.com/office/40/000000/excel.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+</div>
+
 ---
 
 ## 💡 **Sobre mim**
