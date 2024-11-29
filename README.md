@@ -31,7 +31,7 @@
 
 ### **Outras Ferramentas**
 <div style="display: flex; gap: 80px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Excel_2013_logo.svg" alt="Excel" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="80" height="80"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="80" height="80"/>
   <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDRAW" width="80" height="80"/>
