@@ -48,22 +48,22 @@
 </div>
 
 ### **Ferramentas e Frameworks**
-<div style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-
+<div style="display: flex; gap: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/alteryx-designer.png" alt="Alteryx" width="80" height="80"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sas-cloud-computing-flat-flat-juicy-fish.png" alt="SAS" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="ThunderClient" width="80" height="80"/>
 </div>
 
 ### **Outras Ferramentas**
-<div style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="ThunderClient" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/alteryx-designer.png" alt="Alteryx" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sas-cloud-computing-flat-flat-juicy-fish.png" alt="SAS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDRAW" width="40" height="40"/>
-  <img src="https://img.icons8.com/office/40/000000/excel.png" alt="Excel" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+<div style="display: flex; gap: 40px;">
+  <img src="https://img.icons8.com/office/40/000000/excel.png" alt="Excel" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDRAW" width="80" height="80"/>
 </div>
 
 ---
