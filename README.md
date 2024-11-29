@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Alteryx_logo_%282019%29.png" alt="Alteryx" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/SAS_logo.svg" alt="SAS" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/alteryx.png" alt="Alteryx" width="80" height="80"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sas-cloud-computing-flat-flat-juicy-fish.png" alt="SAS" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="ThunderClient" width="80" height="80"/>
 </div>
