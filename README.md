@@ -9,7 +9,7 @@
 ## 🚀 **Habilidades Técnicas**
 
 ### **Linguagens de Programação**
-<div style="display: flex; gap: 80px;">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin-right: 200px;"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" style="margin-right: 20px;"/>
