@@ -8,29 +8,34 @@
 
 ## 🚀 **Habilidades Técnicas**
 
-- **Linguagens de Programação:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+**Linguagens de Programação:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="30">
+</div>
     
-- **Ferramentas e Frameworks:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  - ![Alteryx](https://img.shields.io/badge/-Alteryx-3C6D91?style=flat-square&logo=alteryx&logoColor=white)
-  - ![SAS](https://img.shields.io/badge/-SAS-2E1B32?style=flat-square&logo=sas&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![ThunderClient](https://img.shields.io/badge/-ThunderClient-FF6F00?style=flat-square&logo=thunderclient&logoColor=white)
+**Ferramentas e Frameworks:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Alteryx-3C6D91?style=flat-square&logo=alteryx&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-SAS-2E1B32?style=flat-square&logo=sas&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-ThunderClient-FF6F00?style=flat-square&logo=thunderclient&logoColor=white" height="30">
+</div>
  
-- **Outras Ferramentas:**
-  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-powerbi&logoColor=white)
-  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  - ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-000000?style=flat-square&logo=coreldraw&logoColor=white)
+**Outras Ferramentas:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-powerbi&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-CorelDRAW-000000?style=flat-square&logo=coreldraw&logoColor=white" height="30">
+</div>
 
 ---
 
