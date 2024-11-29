@@ -1,8 +1,10 @@
 # Hello World!👋
 
-🎓 **Formação:** Engenharia de Gestão pela UFABC  
-💻 **Apaixonado por:** Programação, Ciência da Computação, Cibersegurança e IA aplicada  
-🌱 **Atualmente aprendendo:** Desenvolvimento Full-Stack, estratégias de trading automatizado e análise de dados avançada  
+Formado em **Engenharia de Gestão** pela **UFABC**, com uma forte paixão por **Programação**, **Ciência da Computação**, **Cibersegurança** e **Inteligência Artificial Aplicada**. Com uma mentalidade analítica e voltada para soluções inovadoras, estou constantemente em busca de expandir meus conhecimentos em tecnologias emergentes e aplicar esses aprendizados em desafios reais.
+
+Atualmente, estou me aprofundando em **Desenvolvimento Full-Stack**, com foco em criar soluções completas e escaláveis para a web, além de explorar o universo das **estratégias de trading automatizado** para otimizar processos de investimentos. Paralelamente, estou me especializando em **análise de dados avançada**, utilizando ferramentas e técnicas de **machine learning** e **data science** para gerar insights valiosos a partir de grandes volumes de dados.
+
+Meu objetivo é alavancar minha experiência em **engenharia de gestão** e **análise de dados** para impactar positivamente empresas, usando tecnologia e inovação para resolver problemas complexos e criar soluções que transformem o futuro.
 
 ---
 
@@ -40,10 +42,17 @@
 
 ---
 
-## 💡 **Sobre mim**
-- 👨‍💻 **Carreira:** Analista de Negócios no Itaú na área de qualidade e riscos  
-- 📊 **Experiência:** Análise de NPS no setor de financiamento imobiliário  
-- 🤖 **Interesses:** Desenvolvimento de software, automação e soluções de IA aplicadas  
+## 💡 **Sobre Mim**
+
+- 👨‍💻 **Carreira:** Atualmente sou **Analista de Negócios** no **Itaú**, atuando na área de **qualidade e riscos**, com foco na análise de **NPS** (Net Promoter Score) no setor de **financiamento imobiliário**. Meu papel envolve a coleta, análise e interpretação de dados para identificar oportunidades de melhoria nos processos de atendimento e garantir a satisfação dos clientes.
+
+- 📊 **Experiência:** Com uma sólida experiência na análise de dados, já tive a oportunidade de aplicar **métodos estatísticos e modelos preditivos** para identificar tendências e padrões, contribuindo para decisões estratégicas que impactam diretamente na experiência do cliente e nos resultados de negócios. Também possuo vivência em **gestão de projetos** e **implementação de soluções tecnológicas** que visam otimizar processos e reduzir custos.
+
+- 🤖 **Interesses:** Sou **apaixonado por programação**, **automação de processos** e o impacto da **Inteligência Artificial (IA)** no dia a dia das empresas. Tenho explorado áreas como **desenvolvimento full-stack**, **estratégias de trading automatizado** e **análise de dados avançada**. Além disso, tenho grande interesse em **cibersegurança** e em como ela pode ser aplicada para proteger dados e sistemas em um mundo cada vez mais digital.
+
+- 🌱 **Aprendizados Atuais:** No momento, estou focado em me aprofundar em **machine learning**, **data science** e **desenvolvimento de soluções** com **JavaScript** e **Python**. Busco sempre aprender novas tecnologias e ferramentas, com o objetivo de criar soluções inovadoras e de alto impacto para o mercado.
+
+- 🚀 **Objetivo Profissional:** Meu objetivo é combinar minha experiência em **gestão e análise de negócios** com minha paixão por **tecnologia e inovação**, para desenvolver soluções que não apenas resolvem problemas, mas transformam a maneira como as empresas operam. Acredito que a **integração de IA e automação** nas estratégias de negócios será fundamental para o futuro, e estou empenhado em contribuir para esse avanço.
 
 ---
 
