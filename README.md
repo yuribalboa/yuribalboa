@@ -29,7 +29,7 @@ Meu objetivo é alavancar minha experiência em **engenharia de gestão** e **an
   <img src="https://vectorseek.com/wp-content/uploads/2023/11/Alteryx-Icon-Logo-Vector.svg-.png" alt="Alteryx" width="80" height="80"/>
   <img src="https://logos-download.com/wp-content/uploads/2019/11/SAS_Institute_Inc._Logo.png" alt="SAS" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="ThunderClient" width="80" height="80"/>
+  <img src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" alt="ThunderClient" width="80" height="80"/>
 </div>
 
 ### **Outras Ferramentas**
