@@ -1,4 +1,4 @@
-# Hello World! Eu sou Yuri 👋
+# Hello World!👋
 
 🎓 **Formação:** Engenharia de Gestão pela UFABC  
 💻 **Apaixonado por:** Programação, Ciência da Computação, Cibersegurança e IA aplicada  
