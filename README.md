@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" height="80"/>
   <img src="https://vectorseek.com/wp-content/uploads/2023/11/Alteryx-Icon-Logo-Vector.svg-.png" alt="Alteryx" width="80" height="80"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sas-cloud-computing-flat-flat-juicy-fish.png" alt="SAS" width="80" height="80"/>
+  <img src="https://logos-download.com/wp-content/uploads/2019/11/SAS_Institute_Inc._Logo.png" alt="SAS" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="ThunderClient" width="80" height="80"/>
 </div>
